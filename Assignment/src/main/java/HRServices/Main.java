@@ -1,10 +1,6 @@
 package HRServices;
 
-import HRServices.Enums.EmployeeDivision;
-import HRServices.Enums.EmploymentType;
-import HRServices.Enums.Relationship;
-import HRServices.Enums.State;
-import HRServices.Enums.WorkLocation;
+import HRServices.Enums.*;
 import HRServices.Records.Address;
 import HRServices.Records.ContactInfo;
 import HRServices.Records.EmergencyContact;

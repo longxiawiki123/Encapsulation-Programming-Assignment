@@ -53,7 +53,34 @@ public enum State {
     WI("Wisconsin", "The U.S. state of Wisconsin."),
     WY("Wyoming", "The U.S. state of Wyoming.");
 
+    private final String name;
+    private final String description;
 
+    State(String name, String description) {
+        this.name = name;
+        this.description = description;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public static State fromString(String value) {
+        String text = value.trim();
+
+        for (State state : values()) {
+            if (state.name().equalsIgnoreCase(text)
+                    || state.getName().equalsIgnoreCase(text)) {
+                return state;
+            }
+        }
+
+        throw new IllegalArgumentException("Unknown State: " + value);
+    }
 
     @Override
     public String toString() {
