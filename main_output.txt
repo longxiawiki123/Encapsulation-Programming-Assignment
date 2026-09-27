@@ -1,0 +1,180 @@
+Employee ID: EMP0001
+Employment:
+	Job title: Inventory Associate
+	Hire date: 2016-01-01
+	Employment type: Full-time
+	Division: Warehouse
+	Work location: Phoenix Warehouse
+		Building: Warehouse P
+		Room: 12
+		Address:
+			Street: 480 Desert Willow Way
+			City: Phoenix
+			State: Arizona
+			ZIP code: 85004
+Employee contact:
+	First name: Ava
+	Last name: Bennett
+	Address:
+		Street: 120 Juniper Lane
+		City: Birmingham
+		State: Alabama
+		ZIP code: 35203
+	Telephone: 205-555-0100
+	Email: ava.bennett@example.com
+Supervisor contact:
+	First name: Morgan
+	Last name: Ellis
+	Address:
+		Street: 820 Pine Ridge Street
+		City: Sacramento
+		State: California
+		ZIP code: 95814
+	Telephone: 916-555-0180
+	Email: morgan.ellis.supervisor@example.com
+Emergency contacts: 1
+	Emergency contact 1:
+		Relationship: Friend
+		Contact:
+			First name: Isaac
+			Last name: Lopez
+			Address:
+				Street: 340 Aspen Court
+				City: Birmingham
+				State: Alabama
+				ZIP code: 35203
+			Telephone: 205-555-0131
+			Email: isaac.lopez.contact1@example.com
+
+Employee ID: EMP0002
+Employment:
+	Job title: Dispatch Coordinator
+	Hire date: 2017-02-02
+	Employment type: Full-time
+	Division: Transportation
+	Work location: Atlanta Depot
+		Building: Depot T
+		Room: 108
+		Address:
+			Street: 520 Peach Grove Lane
+			City: Atlanta
+			State: Georgia
+			ZIP code: 30303
+Employee contact:
+	First name: Liam
+	Last name: Hayes
+	Address:
+		Street: 137 Maple Hollow Drive
+		City: Anchorage
+		State: Alaska
+		ZIP code: 99501
+	Telephone: 907-555-0101
+	Email: liam.hayes@example.com
+Supervisor contact:
+	First name: Jordan
+	Last name: Hart
+	Address:
+		Street: 841 Aspen Court
+		City: Boise
+		State: Idaho
+		ZIP code: 83702
+	Telephone: 208-555-0181
+	Email: jordan.hart.supervisor@example.com
+Emergency contacts: 2
+	Emergency contact 1:
+		Relationship: Spouse
+		Contact:
+			First name: Grace
+			Last name: Hayes
+			Address:
+				Street: 137 Maple Hollow Drive
+				City: Anchorage
+				State: Alaska
+				ZIP code: 99501
+			Telephone: 907-555-0132
+			Email: grace.hayes.contact1@example.com
+	Emergency contact 2:
+		Relationship: Neighbor
+		Contact:
+			First name: Nina
+			Last name: Cook
+			Address:
+				Street: 139 Maple Hollow Drive
+				City: Anchorage
+				State: Alaska
+				ZIP code: 99501
+			Telephone: 907-555-0163
+			Email: nina.cook.contact2@example.com
+
+Employee ID: EMP0003
+Employment:
+	Job title: Sales Representative
+	Hire date: 2018-03-03
+	Employment type: Full-time
+	Division: Sales
+	Work location: Chicago Office
+		Building: Building C
+		Room: 310
+		Address:
+			Street: 240 Lakeshore Grove Avenue
+			City: Chicago
+			State: Illinois
+			ZIP code: 60601
+Employee contact:
+	First name: Maya
+	Last name: Nguyen
+	Address:
+		Street: 154 Cedar Brook Road
+		City: Tucson
+		State: Arizona
+		ZIP code: 85701
+	Telephone: 520-555-0102
+	Email: maya.nguyen@example.com
+Supervisor contact:
+	First name: Casey
+	Last name: Quinn
+	Address:
+		Street: 862 Laurel Bend
+		City: Portland
+		State: Maine
+		ZIP code: 04101
+	Telephone: 207-555-0182
+	Email: casey.quinn.supervisor@example.com
+Emergency contacts: 3
+	Emergency contact 1:
+		Relationship: Partner
+		Contact:
+			First name: Julian
+			Last name: Morris
+			Address:
+				Street: 154 Cedar Brook Road
+				City: Tucson
+				State: Arizona
+				ZIP code: 85701
+			Telephone: 520-555-0133
+			Email: julian.morris.contact1@example.com
+	Emergency contact 2:
+		Relationship: Other
+		Contact:
+			First name: Samuel
+			Last name: Hayes
+			Address:
+				Street: 656 Meadowlark Street
+				City: Tucson
+				State: Arizona
+				ZIP code: 85701
+			Telephone: 520-555-0164
+			Email: samuel.hayes.contact2@example.com
+	Emergency contact 3:
+		Relationship: Partner
+		Contact:
+			First name: Clara
+			Last name: Ross
+			Address:
+				Street: 701 Pine Ridge Street
+				City: Frederick
+				State: Maryland
+				ZIP code: 21701
+			Telephone: 301-555-0150
+			Email: clara.ross.contact1@example.com
+
